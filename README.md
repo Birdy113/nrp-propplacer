@@ -5,3 +5,5 @@ You can add as many props as you want in config. You can change location in conf
 
 
 Check out our discord: https://discord.gg/tcrESDsgqV
+
+Check out our new store: https://valhallascripts.tebex.io/
